@@ -185,9 +185,9 @@ plt.legend()
 plt.show()
 ```
 
-![img](https://img-blog.csdnimg.cn/1e136a4b7b8b4fafb9f449813530e1b8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5piv5a6J5r6c5ZWK,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+![img](https://img-blog.csdnimg.cn/1e136a4b7b8b4fafb9f449813530e1b8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5piv5a6J5r6c5ZWK,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-![img](https://img-blog.csdnimg.cn/b586fb8af43b48148bc9ade6961dd49e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5piv5a6J5r6c5ZWK,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+![img](https://img-blog.csdnimg.cn/b586fb8af43b48148bc9ade6961dd49e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5piv5a6J5r6c5ZWK,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 ##### 10.模型的保存
 
@@ -252,5 +252,5 @@ probability = float(top_p)
 print(f'神经网络猜测图片里是 {prediction}，概率为{probability*100}%')
 ```
 
-![img](https://img-blog.csdnimg.cn/b262770d4b844fe78c053611653795cb.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5piv5a6J5r6c5ZWK,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+![img](https://img-blog.csdnimg.cn/b262770d4b844fe78c053611653795cb.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5piv5a6J5r6c5ZWK,size_20,color_FFFFFF,t_70,g_se,x_16)
 
