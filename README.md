@@ -53,7 +53,7 @@ test_data = datasets.FashionMNIST(
     transform=transforms.ToTensor()
 )
 # 构建测试集数据载入器 
-test_loader = torch.utils.data.DataLoader(test_data,batch_size=16,shuffle=False)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+test_loader = torch.utils.data.DataLoader(test_data,batch_size=16,shuffle=False)
 ```
 
 ##### 3.查看迭代器中的图片
