@@ -28,11 +28,8 @@ data_transforms = {
 }
 ```
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-官方文档： transforms
-
-[Transforming and augmenting images — Torchvision 0.12 documentation (pytorch.org)](https://pytorch.org/vision/stable/transforms.html)
+官方文档： transforms:[Transforming and augmenting images — Torchvision 0.12 documentation (pytorch.org)](https://pytorch.org/vision/stable/transforms.html)
 
  我们使用FashionMnist 数据集进行训练和分类，它是由 Zalando（一家德国的时尚科技公司）旗下的研究部门提供。其涵盖了来自 10 种类别的共 7 万个不同商品的正面图片。Fashion-MNIST数据集包含了10个类别的图像，分别是：t-shirt（T恤），trouser（牛仔裤），pullover（套衫），dress（裙子），coat（外套），sandal（凉鞋），shirt（衬衫），sneaker（运动鞋），bag（包），ankle boot（短靴）。 FashionMNIST 的大小、格式和训练集/测试集划分与原始的 MNIST 完全一致。60000/10000 的训练测试数据划分，28x28 的灰度图片。
 
